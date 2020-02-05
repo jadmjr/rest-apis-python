@@ -1,0 +1,38 @@
+{
+	"id": "703e1ba4-3cd9-f15c-bd73-9af71144bd3d",
+	"name": "rest-python-apis",
+	"description": "",
+	"order": [
+		"2763f931-539b-66fa-1434-092414af1cea"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1580860319253,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "2763f931-539b-66fa-1434-092414af1cea",
+			"headers": "",
+			"headerData": [],
+			"url": "http://127.0.0.1:5000/hoteis",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "703e1ba4-3cd9-f15c-bd73-9af71144bd3d",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://127.0.0.1:5000/hoteis",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1580860345844,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}

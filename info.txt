@@ -1,0 +1,29 @@
+python --version
+alias python=python=python3.7
+python --version
+INSTALANDO O AMBIENTE VIRTUAL
+pip install virtualenv --user
+
+virtualenv ambienteVirtual --python=Python
+
+./ambienteVirtual/Scripts/activate.bat
+
+EXECUTAR: 
+
+C:\xampp\htdocs\4i4\ambienteVirtual\Scripts>activate.bat
+
+pip freeze ver bibliotecas instaladas no ambienteVirtual
+
+pip install Flask
+
+pip install Flask-Restful
+
+deactivate = desativar ambienteVirtual
+
+*criar arquivo requerimentes:
+
+pip install -r requerimentes.txt
+
+http://127.0.0.1:5000/hoteis
+
+
